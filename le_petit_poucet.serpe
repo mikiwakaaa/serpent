@@ -1,0 +1,51 @@
+### le_petit_poucet.serpe
+
+# l'humain
+~~> se_meut(en_machine):
+    # de Baal
+    tourne <\ "tourne"
+    "" _et_ "se"
+    _retourne_ "en son bal"
+
+# et
+~~> l_on_tourne(les_rondes):
+    # de ces machines 
+    machinant <\ "homme"
+    # et l'on
+    _s'en retourne_ "dans les plis de leurs robes" 
+
+# et que
+~~> veux_tu(toi, oui_toi):
+    me_regardant <\ "comme cela"
+    _retourne_ "toi donc"
+
+# toi
+# sous
+~~> la_voûte(qui, tourne):
+    les_doutes <\ ""
+    qui <\ tourne
+    les_roches <\ "de nos routes"
+    _retourne_ "donc à ta soute"
+
+# et comme 
+~~> s_échappent(les_larmes):
+    des_roses <\ "écloses"
+    _retourne_ "donc à ta gnose"
+
+# et sache que 
+_tant que_ se_meut("la_machine") _--_ "en son bal":
+    l_on_tourne("dans sa ronde")
+    # et
+    veux_tu("donc", "la battre")
+    toi  <\ "le venant"
+    # de ton soleil couchant
+    veux_tu("donc", "dès l'aube")
+    la_voûte("albâtre", "briser")
+    # dans les pleins de sa robe
+    pour_que <\ s_échappent("")
+    s_échappent("fumées")
+    pour_que <\ s_échappent("")
+    s_échappent("rêves enchantés")
+    veux_tu("donc", "toi le Petit Poucet")
+    # la machine
+    _casser_
