@@ -1,0 +1,103 @@
+
+  
+~~>, def
+
+_se retourne_, return 
+_retourne_, return
+_retournent_, return
+_s'en retourne_, return
+_s'en retournant_, return 
+
+_s'imprime_, print 
+_s'impriment_, print 
+_imprimant_, print
+_affiches_, print
+_imprime_, print 
+_s'affichent_, print
+_affiche_, print
+_s'affiche_, print
+_s'affichant_, print
+_m'imprimant_, print
+_imprimées_, print
+_affichez_, print
+
+_._, +
+<\, =
+
+_ensemble_, set
+
+_en_, in
+_en, in
+_dans_, in
+_de_, in 
+_d'_, in
+_parmi_, in
+_à_, in
+
+_est_, is
+
+_pour chaque_, for
+_pour_, for
+_chaque_, for
+_pour ces_, for
+_pour cette_, for
+__de_, for 
+_et pour_, for
+
+_--_, ==
+
+_si_, if
+_avec_, if
+_comme_, if
+_s'_, if
+
+_sinon_, else
+_et_, and
+
+_Vrai_, True
+
+_tant que_, while
+
+
+_ouvrent_, open
+_s'ouvrent_, open
+_s'enlisent_, readlines
+_se closent_, close
+_se ferment_, close
+_ferment_, close
+
+_casser_, break 
+
+_classe_, class
+
+_passe_, pass
+
+_essayer_, try
+
+_filtrer_, filter
+
+
+
+_à l'exception_, except
+
+_arbre, etree
+
+___de_Perse_, parse
+
+#_> <, from lxml import etree
+
+---, xml
+
+_exécute_, exec
+
+^entre, input
+
+-;;-, '.json'
+
+_je lis_, 'r'
+
+_se chargent_, json.load 
+__;;__ , import json 
+__comme vesprée s'emporte *__, from a__vespree import *
+
+__du hasard emportant tout__, from random import *
